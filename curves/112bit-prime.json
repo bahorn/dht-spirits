@@ -1,0 +1,23 @@
+{
+    "field": {
+        "p": "0xf516dc979449166e6ce36f5a2681"
+    },
+    "a": "0x5bdde2b7f10534c278a3b200d340",
+    "b": "0x708334eb61859165f864d6929634",
+    "order": "0xf516dc97944915dd31400b823ae9",
+    "subgroups": [
+        {
+            "x": "0xacec7c6d22209cfcb54921161195",
+            "y": "0x9aca7970bd3a86cc26486c5e5288",
+            "order": "0xf516dc97944915dd31400b823ae9",
+            "cofactor": "0x1",
+            "points": [
+                {
+                    "x": "0xacec7c6d22209cfcb54921161195",
+                    "y": "0x9aca7970bd3a86cc26486c5e5288",
+                    "order": "0xf516dc97944915dd31400b823ae9"
+                }
+            ]
+        }
+    ]
+}

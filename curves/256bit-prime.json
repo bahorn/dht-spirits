@@ -1,0 +1,23 @@
+{
+    "field": {
+        "p": "0xe84cfb4dcaee3066bf2b86112f696c58f610afdfc68ce9ae8cc737b963836797"
+    },
+    "a": "0x99d36cb516e468851be27fab14d1307f02c4e08c27288acc5d0b7862d516f181",
+    "b": "0x7b81b639ae0abb5b8fb14296f08821f055eb61769670d65eada33e57f51f3069",
+    "order": "0xe84cfb4dcaee3066bf2b86112f696c57b506d34e047610d0b6c2d49b88bcc5e5",
+    "subgroups": [
+        {
+            "x": "0x136b5038b348e13e80042622c09a96b8ef769abb4c3bac6a265135e4c90448ef",
+            "y": "0xbe685489c54a9e0d6983c916ac583a752e3fa7da0e8c5d02dc71d879a347f9d0",
+            "order": "0xe84cfb4dcaee3066bf2b86112f696c57b506d34e047610d0b6c2d49b88bcc5e5",
+            "cofactor": "0x1",
+            "points": [
+                {
+                    "x": "0x136b5038b348e13e80042622c09a96b8ef769abb4c3bac6a265135e4c90448ef",
+                    "y": "0xbe685489c54a9e0d6983c916ac583a752e3fa7da0e8c5d02dc71d879a347f9d0",
+                    "order": "0xe84cfb4dcaee3066bf2b86112f696c57b506d34e047610d0b6c2d49b88bcc5e5"
+                }
+            ]
+        }
+    ]
+}
